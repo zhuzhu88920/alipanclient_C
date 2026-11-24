@@ -1,0 +1,27 @@
+# Local credentials - NEVER commit
+config.json
+config.json.bak
+alipan_config.json
+*.token
+*.token.txt
+GitHub-token.txt
+
+# Runtime output
+logs/
+*.log
+*.part
+*.p0
+*.p1
+*.p2
+tests/out/
+tests/realout*/
+
+# Build artifacts (build.ps1 / tests\run.ps1 regenerate them)
+*.exe
+*.o
+*.obj
+
+# Editor / OS
+.vscode/
+Thumbs.db
+Desktop.ini

@@ -1,0 +1,8 @@
+{
+  "access_token": "mock-token",
+  "refresh_token": "",
+  "ticket_id": "mock-ticket",
+  "drive_id": "d1",
+  "download_path": "",
+  "expired": 4102444800
+}
